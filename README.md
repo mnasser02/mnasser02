@@ -1,6 +1,4 @@
-- 👋 Hello, my name is Mahdi Nasser
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning egineering in uni, and full-stack web dev in spare time
+-  Hello, my name is Mahdi Nasser ~ Engineering Student
 - 📫 email: mhnasser23@gmail.com
 
 <!---
