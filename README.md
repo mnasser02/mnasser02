@@ -1,4 +1,4 @@
--  Hello, I'm Mahdi Nasser ~ An Engineering Student
+-  Hello, I'm Mahdi Nasser
 - 📫 email: mhnasser23@gmail.com
 
 <!---
